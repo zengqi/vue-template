@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sky-h5
 
 ## Project setup
@@ -27,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue-template
+vue project template
+>>>>>>> 85ff0f5576d7d0faf191b72e44d089f591c3671e
